@@ -6,20 +6,18 @@ A collection of my dotfiles for a minimal, productive and aesthetic Arch Linux S
 
 ## Softwares I use
 
-For all the softwares that I installed on my desktop can be found in 'packages.txt'.
+For all the softwares that I installed on my desktop can be found in `packages.txt`.
+Main ones are listed below:
 
 - Window Manager: [hyprland](https://github.com/hyprwm/Hyprland)
+- Status Bar: [waybar](https://github.com/Alexays/Waybar)
 - Terminal: [kitty](https://github.com/kovidgoyal/kitty)
 - Shell: [zsh](https://wiki.archlinux.org/title/Zsh)
-- Status Bar: [waybar](https://github.com/Alexays/Waybar)
-- Launcher: [rofi (wayland-fork)](https://github.com/lbonn/rofi)
+- Launcher: [rofi-wayland](https://github.com/lbonn/rofi)
 - File Manager: [lf](https://github.com/gokcehan/lf)
-- Notification Manager: [dunst](https://github.com/dunst-project/dunst)
-- Image Viewer: [imv](https://sr.ht/~exec64/imv/)
-- Video Player: [mpv](https://github.com/mpv-player/mpv)
-- PDF/EPUB Viewer: [MuPDF](https://mupdf.com/)
-- Login Manager: [ly](https://github.com/fairyglade/ly)
+- Text Editor: [neovim](https://github.com/neovim/neovim)
 - Font: [JetBrainsMono](https://www.jetbrains.com/lp/mono/)
+- Color Scheme: [catppuccin](https://github.com/catppuccin/catppuccin)
 
 ## Breakdown of Files
 
